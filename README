@@ -1,3 +1,4 @@
 1. create venv
-2. create file .env and enter data with file env_example
-3. ./manage.py parser
+2. pip install -r requirements.txt
+3. create file .env and enter data with file env_example
+4. ./manage.py parser
